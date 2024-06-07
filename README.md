@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning Full Stack Web Development
 - 💬 Ask me about Tech
 - 📫 How to reach me:
+<br />
   <a href="https://www.linkedin.com/in/ajay-muthusamy/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
