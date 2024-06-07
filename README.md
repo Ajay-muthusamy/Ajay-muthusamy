@@ -38,5 +38,6 @@
     <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" title="Netlify" alt="Netlify"/>
 </div>
 <br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajay-muthusamy&show_icons=true&locale=en&theme=dark" alt="ajay-muthusamy" /></p>
+<br />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajay-muthusamy&show_icons=true&locale=en&theme=dark" alt="ajay-muthusamy" /></p>
 
