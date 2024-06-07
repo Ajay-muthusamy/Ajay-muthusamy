@@ -35,6 +35,6 @@
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png" title="Figma" alt="Figma"/>
     <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" title="Netlify" alt="Netlify"/>
 </div>
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajay-muthusamy&show_icons=true&locale=en&theme=dark" alt="ajay-muthusamy" /></p>
 
