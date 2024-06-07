@@ -5,19 +5,13 @@
 <img align="right" width="370" height="290" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 - 🌱 I’m currently learning Full Stack Web Development
-- 💬 Ask me about Tech
-- 📫 How to reach me:
-  <br />
-  <a href="https://www.linkedin.com/in/ajay-muthusamy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+- 💬 Ask me about Tech  
 - 😄 Pronouns: Techie
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ajay-muthusamy/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajay-muthusamy/" height="30" width="40" />
+<a href="https://www.linkedin.com/in/ajay-muthusamy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
