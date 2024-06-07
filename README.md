@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ajay</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-muthusamy&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-muthusamy" /> </p>
+
 
 <img align="right" width="370" height="290" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
