@@ -1,7 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Ajay</h1>
 
-
+<h1 align="center" ><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Ajay <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am ; Full-stack%20web%20developer 👨🏻‍💻&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a></p>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-muthusamy&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-muthusamy" /> </p>
+<img  margin-top="-50px" align="center" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <img align="right" width="370" height="290" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 - 🌱 I’m currently learning Full Stack Web Development
@@ -34,4 +37,9 @@
 <br />
 <br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajay-muthusamy&show_icons=true&locale=en&theme=dark" alt="ajay-muthusamy" /></p>
-
+<br />
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ajay-muthusamy&theme=darkhub" alt="ajay-muthusamy" />
+  </a> 
+</p>
