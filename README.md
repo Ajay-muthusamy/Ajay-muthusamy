@@ -7,11 +7,12 @@
 - 🌱 I’m currently learning Full Stack Web Development
 - 💬 Ask me about Tech
 - 📫 How to reach me:
-<br />
+  <br />
   <a href="https://www.linkedin.com/in/ajay-muthusamy/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 - 😄 Pronouns: Techie
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
