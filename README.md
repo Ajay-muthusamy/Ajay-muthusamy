@@ -26,6 +26,7 @@
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS" alt="CSS" />
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" alt="Bootstrap" />
     <img height="50" width="50" src="https://static.vecteezy.com/system/resources/previews/012/697/298/non_2x/3d-javascript-logo-design-free-png.png" title="JavaScript" alt="JavaScript"/>
+    <img height="50" width="100" src="https://dotnetguru.org/wp-content/uploads/2022/02/reactjs.png" title="JavaScript" alt="JavaScript"/>
     <img height="50" width="50" src="https://1.bp.blogspot.com/-sqAjIvOtpXI/XYoCmqOyMwI/AAAAAAAAJig/CowR8wgEauEs-RXN2IPmLYkC7NHoHuA3gCLcBGAsYHQ/s1600/node-js-logo.png" title="Node.js" alt="Node.js"/>
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="Visual Studio Code" alt="Visual Studio Code"/>
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png" title="PyCharm" alt="PyCharm"/>
@@ -33,6 +34,11 @@
     <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png" title="Photoshop" alt="Photoshop"/>
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png" title="Figma" alt="Figma"/>
     <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" title="Netlify" alt="Netlify"/>
+    <img height="50" width="50" src="https://vectorified.com/images/express-js-icon-20.png" title="Figma" alt="Figma"/>
+    <img height="50" width="50" src="https://www.logodownload.org/wp-content/uploads/2017/04/Adobe-Illustrator-ai-logo-1.png" title="Figma" alt="Figma"/>
+    <img height="50" width="100" src="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1621313980/hevo-learn/MongoDB-Logo-1.png" title="Figma" alt="Figma"/>
+    <img height="50" width="120" src="https://logos-download.com/wp-content/uploads/2020/06/Postman_Logo.png" title="Figma" alt="Figma"/>
+  
 </div>
 <br />
 <br />
