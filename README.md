@@ -17,29 +17,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<div style="display: inline-block;">
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" alt="C++" />
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" alt="Java" />
-    <img height="50" width="50" src="https://static.vecteezy.com/system/resources/previews/012/697/299/non_2x/stylized-3d-html-logo-design-free-png.png" title="HTML" alt="HTML" />
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS" alt="CSS" />
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" alt="Bootstrap" />
-    <img height="50" width="50" src="https://static.vecteezy.com/system/resources/previews/012/697/298/non_2x/3d-javascript-logo-design-free-png.png" title="JavaScript" alt="JavaScript"/>
-    <img height="50" width="100" src="https://dotnetguru.org/wp-content/uploads/2022/02/reactjs.png" title="JavaScript" alt="JavaScript"/>
-    <img height="50" width="50" src="https://1.bp.blogspot.com/-sqAjIvOtpXI/XYoCmqOyMwI/AAAAAAAAJig/CowR8wgEauEs-RXN2IPmLYkC7NHoHuA3gCLcBGAsYHQ/s1600/node-js-logo.png" title="Node.js" alt="Node.js"/>
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="Visual Studio Code" alt="Visual Studio Code"/>
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png" title="PyCharm" alt="PyCharm"/>
-    <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" title="Git" alt="Git"/>
-    <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png" title="Photoshop" alt="Photoshop"/>
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png" title="Figma" alt="Figma"/>
-    <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" title="Netlify" alt="Netlify"/>
-    <img height="50" width="50" src="https://vectorified.com/images/express-js-icon-20.png" title="Figma" alt="Figma"/>
-    <img height="50" width="50" src="https://www.logodownload.org/wp-content/uploads/2017/04/Adobe-Illustrator-ai-logo-1.png" title="Figma" alt="Figma"/>
-    <img height="50" width="100" src="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1621313980/hevo-learn/MongoDB-Logo-1.png" title="Figma" alt="Figma"/>
-    <img height="50" width="120" src="https://logos-download.com/wp-content/uploads/2020/06/Postman_Logo.png" title="Figma" alt="Figma"/>
-  
-</div>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 <br />
 <br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ajay-muthusamy&show_icons=true&locale=en&theme=dark" alt="ajay-muthusamy" /></p>
